@@ -4,10 +4,10 @@
 install.packages("ggplot2")
 install.packages("dplyr")
 
-library(seewave)
+
 library(ggplot2)
 library(dplyr)
-library(tuneR)
+
 
 # DATA TIDYING AND COMPILATION: 
 
