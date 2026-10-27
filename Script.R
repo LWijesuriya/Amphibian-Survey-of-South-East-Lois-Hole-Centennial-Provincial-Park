@@ -37,7 +37,7 @@ wf.3 <- filter(data, site == c(3), species == "wf")
 
 #WOOD FROG:
 
-# Site 1:
+# Site 1(Figure 6):
 
 wf.1$time <- factor(
   wf.1$time, 
@@ -70,7 +70,7 @@ ggplot(wf.1, aes(x = night, y = time, fill = factor(index))) +
   ) +
   theme_classic()
 
-# Site 3:
+# Site 3(Figure 7):
 
 wf.3$time <- factor(
   wf.3$time, 
@@ -105,7 +105,7 @@ ggplot(wf.3, aes(x = night, y = time, fill = factor(index))) +
 
 #BOREAL CHORUS FROG:
 
-#Site 1:
+#Site 1(Figure 4):
 
 bchf.1$time <- factor(
   bchf.1$time, 
@@ -138,7 +138,7 @@ ggplot(bchf.1, aes(x = night, y = time, fill = factor(index))) +
   ) +
   theme_classic()
 
-#Site 3:
+#Site 3(Figure 5):
 
 bchf.3$time <- factor(
   bchf.3$time, 
@@ -174,7 +174,7 @@ ggplot(bchf.3, aes(x = night, y = time, fill = factor(index))) +
 
 #BOREAL TOAD:
 
-#Site 1:
+#Site 1(Figure 8):
 
 bt.1$time <- factor(
   bt.1$time, 
@@ -207,7 +207,7 @@ ggplot(bt.1, aes(x = night, y = time, fill = factor(index))) +
   ) +
   theme_classic()
 
-#Site 3:
+#Site 3(Figure 9):
 
 bt.3$time <- factor(
   bt.3$time, 
