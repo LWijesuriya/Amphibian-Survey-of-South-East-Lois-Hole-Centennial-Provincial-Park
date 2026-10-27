@@ -1,6 +1,6 @@
 # Amphibian Survey of South East Lois Hole Centennial Provincial Park
 
-This repository includes the data file and R-code used to compile heat maps for our 2026 Amphibian Survey of Southeast Lois Hole Centennial Provincial Park.
+This repository includes the data file and R-code used to compile heat maps for the BLESS 2026 Amphibian Survey of Southeast Lois Hole Centennial Provincial Park.
 
 Acoustic data was condensed into one .csv file. 
 
