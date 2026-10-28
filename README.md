@@ -18,3 +18,13 @@ Rstudio version 2026.09.0
 
 R version 4.6.1
 
+# Contact Us!
+
+For more information, please reach out to the Big Lake Environmental Support Society.
+
+Website: https://www.bless-env.ca/
+
+Email: blessoperations@gmail.com
+
+Follow us on Facebook! http://facebook.com/biglakeenvironmentsupportsociety
+
